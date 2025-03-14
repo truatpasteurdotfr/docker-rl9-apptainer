@@ -2,7 +2,7 @@
 Tru <tru@pasteur.fr>
 
 ## Usage
-- Docker [![Docker build](https://github.com/truatpasteurdotfr/docker-rl9-apptainer/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/truatpasteurdotfr/docker-rl9-apptainer/actions/workflows/docker-publish.yml)
+[![Docker build](https://github.com/truatpasteurdotfr/docker-rl9-apptainer/actions/workflows/docker-publish.yml/badge.svg?branch=main)](https://github.com/truatpasteurdotfr/docker-rl9-apptainer/actions/workflows/docker-publish.yml)
 ```
 docker pull ghcr.io/truatpasteurdotfr/docker-rl9-apptainer:main
 ```
