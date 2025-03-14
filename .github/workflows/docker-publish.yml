@@ -33,7 +33,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        recipe: ["Singularity"]
+        recipe: ["docker"]
 
     steps:
       - name: Checkout repository
